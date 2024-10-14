@@ -1,0 +1,8 @@
+# Flask - framework para el backend
+Flask==2.3.2
+
+# Pika - para la comunicación con RabbitMQ
+pika==1.2.1
+
+# Flask-CORS - para permitir las solicitudes entre tu frontend y backend
+Flask-Cors==3.0.10
